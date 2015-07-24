@@ -1,4 +1,4 @@
-# Metodos Cuantitativos para la Investigación
+# Métodos Cuantitativos para la Investigación
 
 El presente repositorio contiene los documentos, artículos y datos empleados en la clase de métodos cuantitativos para la investigación, ofrecida a los estudiantes en la maestría en Gestión de la Innovacion Social.
 
