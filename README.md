@@ -13,4 +13,16 @@ El presente repositorio contiene los documentos, artículos y datos empleados en
 
 * Diapositivas (Exploración de Datos)
 * Taller para realizar en clase (EDA y variables aleatorias)
+* Datos para taller (tiempoEducacion.csv)
 * Tutorial R y R Studio (instalación, comandos básicos, objetos, cargue de datos, control de flujo, funciones y gestión de datos)
+
+## Sesión 3: Documentos y datos para la sesión 3
+
+* Diapositivas (Inferencia Estadística)
+* Tutorial y caso R para pruebas de hipótesis (ECSC_DANE.pdf)
+* Datos para tutorial y caso (persegco_jefes.csv)
+
+## Sesión 4: Documentos para la sesión 4
+
+* Diapositivas (Experimentos)
+* Taller para realizar en clase (tallerDiseñoExperimentos.pdf)
